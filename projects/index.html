@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Archive | RotaSite</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="/src/css/style.css">
+</head>
+<body data-base="">
+
+<div style="position:fixed;inset:0;background:radial-gradient(ellipse 70% 50% at 50% 0%,var(--p7),transparent 55%);pointer-events:none;z-index:0"></div>
+
+<nav>
+  <a href="/" class="nav-logo">ROTA<em>FN</em></a>
+  <ul class="nav-links">
+    <li><a href="/#vortexspace">VortexSpace</a></li>
+    <li><a href="/#clouds">Clouds Studios</a></li>
+    <li><a href="/#vortexdev">VortexDev</a></li>
+    <li><a href="/projects/">Archive</a></li>
+  </ul>
+  <button class="nav-burger" id="nav-burger" aria-label="Menu">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+<div class="mobile-menu" id="mobile-menu">
+  <a href="/#vortexspace" class="mm-link">VortexSpace</a>
+  <a href="/#clouds" class="mm-link">Clouds Studios</a>
+  <a href="/#vortexdev" class="mm-link">VortexDev</a>
+  <a href="/projects/" class="mm-link">Archive</a>
+</div>
+
+<a href="/" class="back-lnk"><i class="fa-solid fa-arrow-left"></i> Home</a>
+
+<div class="p-intro" style="position:relative;z-index:1">
+  <div class="p-tag sr"><i class="fa-solid fa-clock-rotate-left"></i> The full story</div>
+  <h1 class="p-title sr" data-delay="80">THE<br><span class="ghost">ARCHIVE.</span></h1>
+  <p class="p-sub sr" data-delay="160">
+    From the first Discord server to right now.<br>
+    Everything I built, managed, shipped — or left behind.
+  </p>
+</div>
+
+<div class="callout-wrap sr" style="position:relative;z-index:1" data-delay="80">
+  <div class="callout-box">
+    <p><i class="fa-solid fa-bolt"></i> Looking for active projects? <a href="/">Back to home <i class="fa-solid fa-arrow-right"></i></a></p>
+    <span class="callout-badge"><i class="fa-brands fa-github"></i> github.com/fnicefire</span>
+  </div>
+</div>
+
+<div class="archive-wrap" id="archive-list" style="position:relative;z-index:1">
+  <p style="font-family:var(--f-mono);color:var(--p3);padding:28px 0;font-size:.72rem;letter-spacing:.1em">
+    <i class="fa-solid fa-spinner fa-spin"></i> Loading...
+  </p>
+</div>
+
+<footer style="position:relative;z-index:1">
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <img id="footer-av" class="footer-av" src="/assets/profile_picture.webp" alt="Rotafn"
+          onerror="this.style.display='none';document.getElementById('footer-av-fb').style.display='flex'">
+        <div id="footer-av-fb" class="footer-av-fb">R</div>
+        <div>
+          <div class="footer-bname">ROTAFN</div>
+          <div class="footer-brole">Python - Node.js Developer</div>
+        </div>
+      </div>
+      <div class="footer-links" id="footer-links"></div>
+    </div>
+    <div class="footer-bottom">
+      <div class="footer-copy">© 2025 Rotafn. All rights reserved.</div>
+      <div class="footer-sig">ROTAFN.XYZ</div>
+    </div>
+  </div>
+</footer>
+
+<script src="/src/js/footer.js"></script>
+<script src="/src/js/main.js"></script>
+<script src="/src/js/projects.js"></script>
+</body>
+</html>

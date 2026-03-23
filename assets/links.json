@@ -1,0 +1,49 @@
+[
+  { 
+    "name": "GitHub",
+    "url": "https://link.rotafn.xyz/github",
+    "icon": "github"
+  },
+  { 
+    "name": "X.com",
+    "url": "https://link.rotafn.xyz/x",
+    "icon": "x"
+  },
+  {
+    "name": "Instagram",
+    "url": "https://link.rotafn.xyz/instagram",
+    "icon": "instagram"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://link.rotafn.xyz/youtube",
+    "icon": "youtube"
+  },
+  {
+    "name": "Twitch",
+    "url": "https://link.rotafn.xyz/twitch",
+    "icon": "twitch"
+  },
+  {
+    "name": "TikTok",
+    "url": "https://link.rotafn.xyz/tiktok",
+    "icon": "tiktok"
+  },
+  { 
+    "name": "Discord",
+    "url": "https://link.rotafn.xyz/discord",
+    "icon": "discord",
+    "label": "Rotahub"
+  },
+  {
+    "name": "Instant Gaming",
+    "url": "https://link.rotafn.xyz/instant",
+    "icon": "gamepad"
+  },
+  {
+    "name": "Reddit",
+    "url": null,
+    "icon": "reddit",
+    "label": "Coming Soon"
+  }
+]

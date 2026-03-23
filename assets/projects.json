@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Project 1: Example",
+    "link": "https://example.com",
+    "status": "Active",
+    "tags": ["Example", "LoremIpsum"],
+    "show": true
+  },
+  {
+    "name": "Project 2: Example",
+    "link": null,
+    "status": "Closed",
+    "tags": ["Example", "community"],
+    "show": true
+  }
+]
