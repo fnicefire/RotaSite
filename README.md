@@ -1,6 +1,7 @@
 # RotaSite
 
-![License](https://img.shields.io/badge/license-MIT-blue) ![Downloads](https://img.shields.io/github/downloads/fnicefire/RotaSite/total) 
+![License](https://img.shields.io/badge/license-MIT-blue) ![GitHub Stars](https://img.shields.io/github/stars/fnicefire/RotaSite?style=social) ![GitHub Forks](https://img.shields.io/github/forks/fnicefire/RotaSite?style=social) 
+
 
 is my Official Website :)
 
