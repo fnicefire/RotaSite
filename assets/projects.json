@@ -1,16 +1,86 @@
 [
   {
-    "name": "Project 1: Example",
-    "link": "https://example.com",
-    "status": "Active",
-    "tags": ["Example", "LoremIpsum"],
+    "name": "VortexGames",
+    "link": null,
+    "status": "Closed",
+    "tags": ["discord", "community"],
     "show": true
   },
   {
-    "name": "Project 2: Example",
-    "link": null,
-    "status": "Closed",
-    "tags": ["Example", "community"],
+    "name": "VortexMC",
+    "link": "https://vortexmcsite.mineserver.it",
+    "status": "Active",
+    "tags": ["discord", "minecraft"],
+    "show": true
+  },
+  {
+    "name": "TickHosting",
+    "link": "https://tickhosting.com",
+    "status": "Past",
+    "tags": ["smm", "management"],
+    "show": true
+  },
+  {
+    "name": "Clouds Studios",
+    "link": "https://cloudsstudios.org",
+    "status": "Active",
+    "tags": ["python", "discord", "employed"],
+    "show": true
+  },
+  {
+    "name": "VortexNew",
+    "link": "https://vortexnew.qzz.io",
+    "status": "In Dev",
+    "tags": ["python", "discord", "bot"],
+    "show": true
+  },
+  {
+    "name": "RotaHub",
+    "link": "https://link.rotafn.xyz/discord",
+    "status": "Active",
+    "tags": ["discord", "community"],
+    "show": true
+  },
+  {
+    "name": "VortexSpace",
+    "link": "https://vortexspace.it",
+    "status": "Active",
+    "tags": ["web", "community"],
+    "show": true
+  },
+  {
+    "name": "PartnershipBot",
+    "link": "https://github.com/fnicefire/PartnershipBot",
+    "status": "Open Source",
+    "tags": ["python", "discord", "bot"],
+    "show": true
+  },
+  {
+    "name": "Zampto.net",
+    "link": "https://zampto.net",
+    "status": "Active",
+    "tags": ["moderator", "community"],
+    "show": true
+  },
+  {
+    "name": "HopeAI",
+    "link": "https://hopeai.mineserver.one",
+    "status": "Active",
+    "tags": ["AI", "Innovative"],
+    "show": true
+  },
+  {
+    "name": "NorthStar Studios",
+    "link": "https://discord.gg/YHXthEfEQv",
+    "status": "Active",
+    "tags": ["Partnership Manager", "Studios"],
+    "show": true
+  },
+  {
+    "name": "DiscordGhoster",
+    "link": "https://github.com/fnicefire/DiscordGhoster",
+    "status": "Open Source",
+    "tags": ["Discord", "Tool", "CLI"],
     "show": true
   }
 ]
