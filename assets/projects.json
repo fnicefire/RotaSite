@@ -82,5 +82,19 @@
     "status": "Open Source",
     "tags": ["Discord", "Tool", "CLI"],
     "show": true
+  },
+  {
+    "name": "GiveawayBot",
+    "link": "https://github.com/vortexdevelopmentgit/GiveawayBot",
+    "status": "Open Source",
+    "tags": ["python", "discord.py", "giveaways", "modals"],
+    "show": true
+  },
+  {
+    "name": "VortexMusic",
+    "link": "https://github.com/vortexdevelopmentgit/VortexMusic",
+    "status": "Open Source",
+    "tags": ["node.js", "discord.js", "lavalink", "music"],
+    "show": true
   }
 ]
